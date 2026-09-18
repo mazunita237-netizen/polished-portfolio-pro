@@ -136,7 +136,7 @@ function Index() {
                   e.preventDefault();
                   scrollToSection("#contact");
                 }}
-                className="block px-4 py-3 text-center text-sm font-semibold text-neon-pink-foreground bg-neon-pink rounded-lg"
+                className="block px-4 py-3 text-center text-sm font-semibold text-neon-foreground bg-neon rounded-lg"
               >
                 Hire Me
               </a>
