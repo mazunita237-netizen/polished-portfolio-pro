@@ -96,7 +96,7 @@ function Index() {
                   e.preventDefault();
                   scrollToSection("#contact");
                 }}
-                className="rounded-lg bg-neon-pink px-5 py-2 text-sm font-semibold text-neon-pink-foreground transition-all duration-300 hover:neon-glow-pink"
+                className="rounded-lg bg-neon px-5 py-2 text-sm font-semibold text-neon-foreground transition-all duration-300 hover:neon-glow"
               >
                 Hire Me
               </a>
